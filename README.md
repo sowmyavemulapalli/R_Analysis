@@ -21,12 +21,23 @@
     Multiple R-squared:  0.7149,	Adjusted R-squared:  0.6825 
     F-statistic: 22.07 on 5 and 44 DF,  p-value: 5.35e-11.
     - The linear model predict mpg of MechaCar prototypes can be decided by doing the summary from the linear lm function which we can see that in the screen shot.
+   ![image](https://user-images.githubusercontent.com/86328230/135700006-b08eb8c2-4117-41a6-a287-f18de64188ca.png)
+
 
 ## Summary Statistics on Suspension Coils:
    In Delivereble 2 we calculate the total summary and lot summary of Suspension coils as shown in the below screen shot. As per Design specification the variance of the suspension coils must not exceed 100 pounds per square inch for all manufacturing lots in total and each lot individually. But as per Screen shot below the variance in Total summary is 62.29356 and variance in lot summary for all 3 lots are 0.9795918,7.4693878 and 170.2861224 , for lot3 the variance exceed the 100.
+   
+ ![image](https://user-images.githubusercontent.com/86328230/135700041-64c9de0c-8b0d-4173-9b8a-23dff5fa51ed.png)
+ 
+ ![image](https://user-images.githubusercontent.com/86328230/135700052-5ee3ceea-70bd-4a7b-9dda-576d1d84b646.png)
+
+
 
 ## T-Tests on Suspension Coils:
 In Deliverable 3 we claculate the t-tests on suspension coils for all the 3 lots individually and the output is shown in the below screen shot. As overall the mean of x for lot 1 is 1500  and the mean of x for lot 2 is 1500.2 and the mean of x for lot 3 is 1496.14.
+
+![image](https://user-images.githubusercontent.com/86328230/135700077-9a4980d8-1065-4d07-8d5f-5bdbed870e6c.png)
+
 
 ## Study Design: MechaCar vs Competition.
 The MechaCar performs good in  the competition for most of the cases the numbers are good, but there is still some room to improve the performance of mechacar by following the design specification correctly without exceeding the limit numbers, In my study design the consumer might be interested on cost,mileage,safety features and also the maintenance cost.
